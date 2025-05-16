@@ -1,0 +1,10 @@
+s = "Hello World"
+print(s[1:5])
+print(s.lower())
+print(s + " Again")
+print(f"Formatted {s}")
+print(s.replace("World", "Python"))
+print(s.find("World"))
+print(s.split())
+print(s.startswith("Hello"))
+print(s.endswith("World"))
